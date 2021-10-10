@@ -1,16 +1,53 @@
-### Hi there 👋
+<h3>
+<p align="center">
+<a>
+Hi, Im Alexey👨‍💻
+<a/>
+</p>
+<h3/>
 
-<!--
-**ImOstrovskiy/ImOstrovskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>
+<p align="center">
+<a>
+My social media
+<a/>
+</p>
+<h3/>
+<p align="center">
+  <a href= "https://t.me/Im_Ostrovskiy">
+    <img src="https://img.icons8.com/fluency/30/000000/telegram-app.png"/>
+  </a>
+  <a href= "https://instagram.com/im_ostrovskiy">
+    <img src="https://img.icons8.com/fluency/30/000000/instagram-new.png"/>
+  </a>
+  <a href= "https://github.com/ImOstrovskiy">
+    <img src="https://img.icons8.com/fluency/30/000000/github.png"/>
+  </a>
+  <a href= "https://imostrovskiy.github.io/">
+    <img src="https://img.icons8.com/fluency/30/000000/web-design.png"/>
+  </a>
 
-Here are some ideas to get you started:
+  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a>
+  📖 Languages I've practiced
+  </a>
+</p>
+<p align="center">
+<a>
+  Python, Lua, Batchfile, JSON, HTML and Bash.
+</a>
+</p>  
+<p align="center">
+<a>
+  📊 Stats 
+</a>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImOstrovskiy&&theme=gotham&show_icons=true" alt="ImOstrovskiy's Most Used Languages">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ImOstrovskiy&theme=gotham&show_icons=true" alt="ImOstrovskiy's GitHub Stats">
+</p>
