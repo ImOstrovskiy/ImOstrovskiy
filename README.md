@@ -26,8 +26,6 @@ My social media
   <a href= "https://imostrovskiy.github.io/">
     <img src="https://img.icons8.com/fluency/30/000000/web-design.png"/>
   </a>
-
-  
 </p>
 
 <p align="center">
