@@ -44,8 +44,8 @@ My social media
 </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImOstrovskiy&&theme=gotham&show_icons=true" alt="ImOstrovskiy's Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImOstrovskiy&&theme=gotham&show_icons=true">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ImOstrovskiy&theme=gotham&show_icons=true" alt="ImOstrovskiy's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ImOstrovskiy&theme=gotham&show_icons=true">
 </p>
