@@ -1,7 +1,7 @@
 <h3>
 <p align="center">
 <a>
-Hi, Im Olesii👨‍💻
+Hi, Im Oleksii👨‍💻
 <a/>
 </p>
 <h3/>
